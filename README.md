@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujith S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujithhubpost&label=Profile%20views&color=0e75b6&style=flat" alt="sujithhubpost" /> </p>
+<p align="center"> [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sujithx007/)  <img src="https://komarev.com/ghpvc/?username=sujithhubpost&label=Profile%20views&color=0e75b6&style=flat" alt="sujithhubpost" /> </p>
 
 Something about me:
 
@@ -13,9 +13,6 @@ Something about me:
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujithhubpost" alt="sujithhubpost" /></a> </p>
-
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sujithx007/)  <img src="https://komarev.com/ghpvc/?username=sujithhubpost&label=Profile%20views&color=0e75b6&style=flat" alt="sujithhubpost" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
