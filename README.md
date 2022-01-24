@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about - Python, Startups, MVP 
 - 📫 How to reach me: hi@sujiths.com
 
-[![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujithhubpost)](https://github.com/anuraghazra/github-readme-stats)
+[![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujithhubpost&count_private=true)](https://github.com/sujithhubpost)
