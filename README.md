@@ -1,5 +1,19 @@
-<h1 align="center">Hi 👋, I'm Sujith S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sujithx007/)
+
+### Hi there 👋
+
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/sujithhubpost)](https:braydoncoyer.dev)
+
+<!--
+**sujithhubpost/sujithhubpost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on [ML Code Env](https://github.com/sujithhubpost/mlcode)
+- 🌱 I’m currently learning - React Js
+- 👯 I’m looking to collaborate on - MVP Product development
+- 💬 Ask me about - Python, Startups, MVP 
+- 📫 How to reach me: hi@sujiths.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujithhubpost&label=Profile%20views&color=0e75b6&style=flat" alt="sujithhubpost" /> </p>
 
