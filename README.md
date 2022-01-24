@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hi@sujiths.com
 
 [![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujithhubpost&count_private=true&show_icons=true&layout=compact)](https://github.com/sujithhubpost) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujithhubpost)](https://github.com/sujithhubpost)
