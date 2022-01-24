@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about - Python, Startups, MVP 
 - 📫 How to reach me: hi@sujiths.com
 
-[![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujithhubpost&count_private=true&show_icons=true&layout=compact)](https://github.com/sujithhubpost)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujithhubpost&layout=compact)](https://github.com/sujithhubpost)
+[![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujithhubpost&count_private=true&show_icons=true&layout=compact)](https://github.com/sujithhubpost) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujithhubpost&layout=compact)](https://github.com/sujithhubpost)
 
 <a href="https://github.com/sujithhubpost">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujithhubpost&count_private=true&show_icons=true" />
