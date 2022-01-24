@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sujithhubpost&label=Profile%20views&color=0e75b6&style=flat" alt="sujithhubpost" /> <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="sujithhubpost" /> </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujithhubpost" alt="sujithhubpost" /></a> </p>
+
 Something about me:
 
 - 🔭 I’m currently working on [ML Code Env](https://github.com/sujithhubpost/mlcode)
@@ -12,7 +14,7 @@ Something about me:
 - 📫 How to reach me: hi@sujiths.com
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujithhubpost" alt="sujithhubpost" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
