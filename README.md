@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hi@sujiths.com
 
 [![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujithhubpost&count_private=true&show_icons=true&layout=compact)](https://github.com/sujithhubpost) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujithhubpost)](https://github.com/sujithhubpost)
+[![Top Langs](sujithhubpost)](https://github.com/sujithhubpost)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujithhubpost&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithhubpost&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
