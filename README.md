@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujithhubpost&layout=compact)](https://github.com/sujithhubpost)
 
 <a href="https://github.com/sujithhubpost">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sujithhubpost&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujithhubpost&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/sujithhubpost">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sujithhubpost&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithhubpost&layout=compact" />
 </a>
