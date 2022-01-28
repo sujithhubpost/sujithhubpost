@@ -20,6 +20,7 @@
 - 💬 Ask me about - Python, Startups, MVP 
 - 📫 How to reach me: hi@sujiths.com
 
+### My Blogs
 
 <!-- # Blog posts -->
 <!-- BLOG-POST-LIST:START -->
