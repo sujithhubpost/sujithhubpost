@@ -20,9 +20,12 @@
 - 💬 Ask me about - Python, Startups, MVP 
 - 📫 How to reach me: hi@sujiths.com
 
+### My Blogs
 
-# Blog posts
+<!-- # Blog posts -->
 <!-- BLOG-POST-LIST:START -->
+- [Why you should launch your first version of your software product within 2 months?](https://dev.to/sujiths/why-you-should-launch-your-first-software-product-within-2-months-3ln9)
+- [Problem Statement : Deploy ML Models Quickly](https://dev.to/sujiths/problem-statement-deploy-ml-models-quickly-422m)
 <!-- BLOG-POST-LIST:END -->
 
 
