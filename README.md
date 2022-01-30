@@ -31,7 +31,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-### What clients says about me
+### What clients have to say about me
 
 
 <img src="img/upw2.jpg"/>
