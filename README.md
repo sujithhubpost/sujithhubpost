@@ -1,5 +1,5 @@
 
-<img src="img/upw2.JPG"/>
+<img src="img/upw2.jpg"/>
 
 
 <h1 align="center">Hi 👋, I'm Sujith S</h1>
