@@ -36,7 +36,7 @@
 ### What clients have to say about me
 
 
-<img src="img/upw2.jpg"/>
+<img src="img/upw3.jpg"/>
 
 
 <h3 align="left">Connect with me:</h3>
