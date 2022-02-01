@@ -24,6 +24,7 @@
 
 ### My Blogs
 
+ - [Some learning materials](https://hexiumai.github.io/)
 <!-- # Blog posts -->
 <!-- BLOG-POST-LIST:START -->
 - [Why you should launch your first version of your software product within 2 months?](https://dev.to/sujiths/why-you-should-launch-your-first-software-product-within-2-months-3ln9)
