@@ -35,6 +35,7 @@
 
 ### What clients have to say about me
 
+<br>
 
 <img src="img/upw2.jpg"/>
 
