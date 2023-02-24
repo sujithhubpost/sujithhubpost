@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning - React Js
 - 👯 I’m looking to collaborate on - MVP Product development
 - 💬 Ask me about - Python, Startups, MVP 
-- 📫 How to reach me: hi@sujiths.com
+- 📫 How to reach me: sujith@zackriya.com
 
 ### My Blogs
 
