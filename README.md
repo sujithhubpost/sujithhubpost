@@ -17,7 +17,7 @@
 
 ### Something about me:
 
-- 🔭 I’m currently working on [ML Code Env](https://github.com/sujithhubpost/mlcode)
+- 🔭 I’m currently working on [Ai Meeting Minutes]([https://github.com/sujithhubpost/mlcode](https://github.com/Zackriya-Solutions/meeting-minutes/))
 - 🌱 I’m currently learning - React Js
 - 👯 I’m looking to collaborate on - MVP Product development
 - 💬 Ask me about - Python, Startups, MVP 
