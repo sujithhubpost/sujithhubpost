@@ -18,9 +18,9 @@
 ### Something about me:
 
 - 🔭 I’m currently working on [Ai Meeting Minutes](https://github.com/Zackriya-Solutions/meeting-minutes/)
-- 🌱 I’m currently learning - React Js
-- 👯 I’m looking to collaborate on - MVP Product development
-- 💬 Ask me about - Python, Startups, MVP 
+- 🌱 I’m currently learning - Human Brain
+- 👯 I’m looking to collaborate on - Ai Product development
+- 💬 Ask me about - Artificial Intelligence, Startups, MVP 
 - 📫 How to reach me: sujith@zackriya.com
 
 ### My Blogs
